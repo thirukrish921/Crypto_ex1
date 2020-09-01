@@ -3,6 +3,8 @@ This repository contains Various Cipher Techniques implementation in Java.
 
 By
 
-Thirumurugan K "\n"
-Sathish Kumar K "\n"
+Thirumurugan K 
+
+Sathish Kumar K
+
 Daya Dhilipan D P
